@@ -3,6 +3,11 @@ a drawing app similar to Microsoft Paint
 
 >that project was the first exposition to Konva.js Framework
 
+## implementation details
+- **we used factory design pattern to create shape objects which the user picks from the side panel**
+
+- **we use prototype design pattern to perform the copy command done by the user**
+
 - **bussiness logic was implemented in java**
 
 - **backend server is implemented using springboot**
