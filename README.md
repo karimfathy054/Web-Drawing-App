@@ -22,4 +22,4 @@ a drawing app similar to Microsoft Paint
 - **[Karim Fathy](https://github.com/karimfathy054)**
 - **[Mohamed Reyad](https://github.com/moriyad12)**
 - **[Ahmed M. Hassan](https://github.com/ahmedMhassan10)**
-- **[Faris M. Anwar]**
+- **[Faris M. Anwar]()**
