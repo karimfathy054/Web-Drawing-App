@@ -16,7 +16,7 @@ a drawing app similar to Microsoft Paint
 
 - **We used `http:get` and Restful api to handle front end requests**
 
-- **We used `konva shapes` classes to render the shapes on the HTML5 `canvas`
+- **We used `konva shapes` classes to render the shapes on the HTML5 `canvas`**
 
 ## Screenshots
 
